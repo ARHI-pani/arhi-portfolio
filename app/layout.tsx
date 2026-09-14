@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   generator: 'v0.app',
   icons: {
     icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
+
+     verification: {
+    google: "C9eC0J2ybQUlZ4q3Qy67AfhRJOu0rcq9a4BFeJqmflg",
   },
 }
 
