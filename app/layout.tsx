@@ -21,9 +21,9 @@ export const metadata: Metadata = {
   description:
     'Portfolio of Aryapriya Panigrahi, a Production Engineering student at VSSUT Burla exploring manufacturing, CAD/CAM, and software development.',
   generator: 'v0.app',
-  icons: {
-    icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
-  },
+ icons: {
+  icon: [{ url: '/logo.png', type: 'image/png' }],
+},
   verification: {
     google: "C9eC0J2ybQUlZ4q3Qy67AfhRJOu0rcq9a4BFeJqmflg",
   },
